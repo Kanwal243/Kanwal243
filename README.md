@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
-<h3 align="center">A Passionate Associate full stack developer || Aspiring CKAD Consultant from Pakistan</h3>
+<h3 align="center">A Passionate Associate full stack developer || Aspiring CKAD Consultant</h3>
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
