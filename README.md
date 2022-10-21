@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
 <h3 align="center">A Passionate Associate full stack developer || Aspiring CKAD Consultant from Pakistan</h3>
 
-<img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanwal243&label=Profile%20views&color=0e75b6&style=flat" alt="kanwal243" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanwal243" alt="kanwal243" /></a> </p>
