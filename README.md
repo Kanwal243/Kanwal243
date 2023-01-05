@@ -1,7 +1,7 @@
 ![DESIGN HACKS](https://user-images.githubusercontent.com/83213183/197138088-f0bdacee-fa22-4c4f-aa9b-518e5e9a48f0.png)
 
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
-<h3 align="center">A Passionate Associate full stack developer || Aspiring CKAD Consultant</h3>
+<h3 align="center">A Passionate Associate Full Stack & Jam Stack Developer || Aspiring CKAD Consultant</h3>
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
