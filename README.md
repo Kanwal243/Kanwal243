@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
-<h3 align="center">A Passionate MERN Stack Developer ⚡. 🌟 Docker Captain 💪 . 🐳 From Pakistan</h3>
+<h3 align="center">A Passionate Software Developer ⚡. 🌟 Docker Captain 💪 . 🐳 From Pakistan</h3>
 
 <img align ="center" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
