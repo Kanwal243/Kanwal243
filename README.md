@@ -4,10 +4,6 @@
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83213183/235316240-9400757c-9e55-4db4-9bda-6d053643434c.png">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kanwal243&label=Profile%20views&color=0e75b6&style=flat" alt="kanwal243" /> </p>
-
-
-
-
 <p align="left"> <a href="https://twitter.com/kanwalyousuf4" target="blank"><img src="https://img.shields.io/twitter/follow/kanwalyousuf4?logo=twitter&style=for-the-badge" alt="kanwalyousuf4" /></a> </p>
 
 - 🔭 I’m currently working on **Nextjs**
@@ -36,7 +32,7 @@
 <a href="https://twitter.com/kanwalyousuf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanwalyousuf4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://stackoverflow.com/users/20013686/kanwal-yousuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/20013686/kanwal-yousuf" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20013686/kanwal-yousuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20013686/kanwal-yousuf" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/moooomal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moooomal/" height="30" width="40" /></a>
+<a https://www.facebook.com/MOOOOMAL/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moooomal/" height="30" width="40" /></a>
 <a href="https://instagram.com/momalyousuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="momalyousuf" height="30" width="40" /></a>
 <a href="https://medium.com/@kanwalyousufaimsol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanwalyousufaimsol" height="30" width="40" /></a>
 <a href="https://discord.gg/hV9tnAs3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hV9tnAs3" height="30" width="40" /></a>
