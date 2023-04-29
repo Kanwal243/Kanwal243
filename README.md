@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
 <h3 align="center">A Passionate Software Developer ⚡. 🌟 Docker Captain 💪 . 🐳 From Pakistan</h3>
 
-<img align ="center" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83213183/235316240-9400757c-9e55-4db4-9bda-6d053643434c.png">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kanwal243&label=Profile%20views&color=0e75b6&style=flat" alt="kanwal243" /> </p>
 
@@ -21,6 +21,7 @@
 - 💬 Ask me about **React , Blazor & Nextjs**
 
 - 📫 How to reach me **kanwalyousufaimsol@gmail.com**
+
 
 - ⚡ Fun fact **I think I have good sense of 👉 Humour😄**
 
