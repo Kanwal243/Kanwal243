@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanwal Yousuf</h1>
-<h3 align="center">A Passionate Software Developer ⚡. 🌟 Docker Captain 💪 . 🐳 From Pakistan</h3>
+<h3 align="center">A Passionate Software Developer 💻 . ⚡ Docker Captain 🐳 . ☁️ From Pakistan</h3>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83213183/235316240-9400757c-9e55-4db4-9bda-6d053643434c.png">
 
